@@ -6,4 +6,4 @@ Posiada on:
 - system muzyki,
 - automoderator,
 - Wiecej wkrotce.
-# Wydany: 12.02.21
+# Zostanie wydany: 12.03.21
