@@ -6,5 +6,6 @@ Posiada on:
 - system muzyki,
 - automoderator,
 - Wiecej wkrotce.
-# Zostanie wydany: 12.03.21
+# Zostanie wydany: xx.05.21
+# Wersja: 1.0
 :)
